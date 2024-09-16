@@ -26,11 +26,7 @@ int main() {
     }
     
     for(int i = 0; i < jumlah; i++){
-        printf("%d\n", nilai[i]);
-        
-    }
-        
-        
-        
+        printf("%d\n", nilai[i]);   
+    }   
     return 0;
 }
