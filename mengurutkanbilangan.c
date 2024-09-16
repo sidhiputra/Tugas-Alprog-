@@ -6,7 +6,6 @@
 int main() {
 
     int jumlah;
-   
     int temp = 0;
     scanf("%d", &jumlah);
     int nilai[jumlah];
